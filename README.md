@@ -45,7 +45,7 @@ I'm here to:
   <a href="https://instagram.com/_____rahul_____214" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="#" title="LinkedIn Coming Soon">
+  <a href="https://x.com/RahulBichewar" title="LinkedIn Coming Soon">
     <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="#" title="Twitter Coming Soon">
